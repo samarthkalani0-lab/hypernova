@@ -1,0 +1,7 @@
+build*/
+cpp/build*/
+release/
+nets/
+data/
+*.bin
+__pycache__/
